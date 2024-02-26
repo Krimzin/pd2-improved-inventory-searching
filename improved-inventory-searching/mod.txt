@@ -1,0 +1,12 @@
+{
+	"name":"Improved Inventory Searching",
+	"description":"This mod aims to improve the search feature in the primary weapon, secondary weapon, and mask inventories.",
+	"author":"Krimzin",
+	"version":"0.0.0",
+	"hooks":[
+		{
+			"hook_id":"lib/managers/menu/blackmarketgui",
+			"script_path":"blackmarketgui.lua"
+		}
+	]
+}
