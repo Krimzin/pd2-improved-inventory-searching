@@ -1,4 +1,4 @@
-# pd2-improved-inventory-searching
+# Improved Inventory Searching for PAYDAY 2
 This mod aims to improve the search feature in the primary weapon, secondary weapon, and mask inventories.
 
 ## Features
@@ -18,3 +18,6 @@ This mod aims to improve the search feature in the primary weapon, secondary wea
 * DLC (usually the name of a DLC)
 	* Prefix: d
 	* Example: d:gage assault pack
+
+## Requirements and Installation
+This mod requires [SuperBLT](https://superblt.znix.xyz/) and goes in the "mods" directory.
